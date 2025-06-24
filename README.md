@@ -6,7 +6,7 @@
 ### 1. Clone the repository
 
 ```bash
-git clone git@github.com:Rsln-M/ai-assistant-agent.git
+git clone https://github.com/Rsln-M/ai-assistant-agent.git
 cd ai-assistant-agent
 ```
 
