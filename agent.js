@@ -7,7 +7,7 @@ dotenv.config();
 
 const chat = new ChatOpenAI({
   temperature: 0,
-  modelName: "gpt-4", // or "gpt-3.5-turbo"
+  modelName: "gpt-4.1-mini",
 });
 
 const prompt = new PromptTemplate({
