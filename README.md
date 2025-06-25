@@ -13,7 +13,7 @@ cd ai-assistant-agent
 ### 2. Install packages
 
 ```bash
-npm install langchain openai dotenv
+npm install
 ```
 
 ### 3. Add API key to .env file
